@@ -18,7 +18,7 @@ cd devops-repo
 #Select the gcp-course > devops-repo folder in the explorer tree on the left.
 #Click on devops-repo
 #On the File menu, click New File
-#Paste the following code
+#Put the following code
 from flask import Flask, render_template, request
 app = Flask(__name__)
 @app.route("/")
@@ -60,7 +60,7 @@ if __name__ == "__main__":
 </div>
 {% endblock %}
 #In Python, application prerequisites are managed using pip. 
-#Now you will add a file that lists the requirements for this application.
+#Now will add a file that lists the requirements for this application.
 
 #In the devops-repo folder (not the templates folder), 
 #create a New File and add the following to that file and save it as requirements.txt:
