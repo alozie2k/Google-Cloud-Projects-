@@ -20,3 +20,11 @@ SpannerCloudGame Project
 
 •	Query Spanner to determine how many players are playing, statistics about players' games won versus games played, players' account balances and number of items, and statistics about trade orders that are open or have been filled.
 
+Built a VPN Between Google Cloud and AWS with Terraform
+•Deployed virtual machine (VM) instances into custom virtual private cloud (VPC) networks in Google Cloud and AWS. T
+
+•Then deploy supporting infrastructure to construct a VPN connection with two Internet Protocol security (IPsec) tunnels between the Google Cloud and AWS VPC network to create  secure, private, site-to-site connection between Google Cloud and AWS using VPN! 
+
+
+
+
