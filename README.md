@@ -13,7 +13,7 @@ SoccerMatchPredicationBigqueryML Project
 
 SpannerCloudGame Project
 
-•	Developed a multiplayer game in Google Cloud utilizing Go for the REST API, Spanner Database for player data storage, and Locust.io for load testing and performance optimization. The game features user registration and authentication, in-game item purchases and trading, and real-time interaction between players
+•	Developed a multiplayer game in Google Cloud utilizing Go for the REST API, Spanner Database for player data storage, and Locust.io for load testing and performance optimization. The game features user registration and authentication, in-game item purchases and trading, and real-time interaction between players. This project not only provided a fun and engaging experience for users, but also demonstrated my ability to effectively integrate various cloud technologies and optimize for performance.
 
 
 •	Created four Go services that interact with a regional Spanner database. The first two services, profile-service and matchmaking-service, enable players to sign up and start playing. The second pair of services, item-service and tradepost-service, enable players to acquire items and money, and then list items on the trading post for other players to purchase.
