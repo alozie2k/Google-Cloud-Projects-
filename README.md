@@ -1,6 +1,7 @@
 # Google-Cloud-Projects-
 
 DevOpsPipeline Project
+
 •Implemented a streamlined deployment pipeline using Cloud Source Repositories, Docker, and Cloud Build for automating the deployment of a Flask application, resulting in faster and more efficient releases, improved code quality and consistency, and reduced deployment errors.
 
 
@@ -22,6 +23,7 @@ SpannerCloudGame Project
 •	Query Spanner to determine how many players are playing, statistics about players' games won versus games played, players' account balances and number of items, and statistics about trade orders that are open or have been filled.
 
 Built a VPN Between Google Cloud and AWS with Terraform
+
 • Implemented a secure and scalable VPN connection between Google Cloud and AWS using Terraform, which enabled seamless communication and data transfer between the two platforms, reducing the need for manual configuration and increasing efficiency and reliability. Additionally, I set up monitoring and alerting for the VPN connection using Cloudwatch and configured automatic failover to ensure high availability of the connection. This solution improved the overall performance and security of the network infrastructure.
 
 •Deployed virtual machine (VM) instances into custom virtual private cloud (VPC) networks in Google Cloud and AWS. T
